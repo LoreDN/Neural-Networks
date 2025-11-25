@@ -21,6 +21,11 @@ In this repository can be found the real implementation of the Network ( as the 
 <br>
 Here are them all:
 - **cluster/ :** folder containing Networks which classify different elements by *Classes*.
-  - **point/ :** cluster of a Point in the Cartesian Plane.
+  - **point/ :** cluster of a Point in the Cartesian Plane following a Boundary.
     - Line_2D
     - Curve_2D
+    - Circle_2D
+    - Ring_2D
+  - **figures/ :** cluster of different figures.
+    - Moons_2D
+    - Spirals_2D
